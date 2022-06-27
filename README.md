@@ -5,4 +5,4 @@ This is a clone of the New York Times word guessing game, Wordle. Wordle is awor
 
 ![Example](images/example.png)
 
-## Install
+
